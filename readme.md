@@ -62,7 +62,9 @@ python .\task_1\main.py -r="[{'begin': '2020-03-06 14:00:20', 'end': '2024-07-13
 Юнит тесты находятся в `.\task_1\test\`
 
 Для запуска тестов выполнить команду:
-`python -m unittest discover task_1`
+```
+python -m unittest discover task_1
+```
 
 
 ---
